@@ -1,0 +1,7 @@
+{
+  "name": "Gravador de Tela Pro",
+  "description": "Um aplicativo de gravação de tela profissional para a web, com suporte para captura de áudio do sistema e microfone.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
